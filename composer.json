@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": { "CheckRange\\": "src/" } 
+    },
+
+   "require" : {
+       "php": ">=5.4" 
+   }
+ 
+}
